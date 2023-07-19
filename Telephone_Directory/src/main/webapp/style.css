@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+*{
+	margin:0;
+	padding:0;
+}
+.heading-container{
+	height:auto;
+	width:auto;
+	margin-top:10%;
+	border:2px solid black;
+}
+.enter-Data{
+	height:100px;
+	width:50%;
+	justify-content: center;
+	text-align: center;
+	border:2px solid black;
+}
+.enter-Data .button1{
+	
+	height:fit-content;
+	width:fit-content;
+	font-size: 24px;
+	font-family: 'Times New Roman', Times, serif;
+}
